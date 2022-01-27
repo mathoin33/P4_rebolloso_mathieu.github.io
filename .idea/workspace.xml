@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d617602d-0f6c-4127-853e-50deca00ce3c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/font-awesome.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/4.webp" beforeDir="false" afterPath="$PROJECT_DIR$/img/4.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/page2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +59,7 @@
       <recent name="$PROJECT_DIR$/css" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.contact.html">
     <configuration name="contact.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/P4_rebolloso_mathieu/contact.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -100,7 +98,7 @@
       <workItem from="1642944601868" duration="475000" />
       <workItem from="1642977274803" duration="23311000" />
       <workItem from="1643105003449" duration="28416000" />
-      <workItem from="1643206207549" duration="16605000" />
+      <workItem from="1643206207549" duration="17152000" />
     </task>
     <servers />
   </component>
@@ -130,5 +128,8 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/P4_rebolloso_mathieu$index_html__1_.dat" NAME="index.html (1) Coverage Results" MODIFIED="1643243275038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
