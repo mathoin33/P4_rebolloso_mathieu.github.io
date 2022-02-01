@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d617602d-0f6c-4127-853e-50deca00ce3c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +60,7 @@
       <recent name="$PROJECT_DIR$/fonts" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.contact.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
     <configuration name="contact.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/P4_rebolloso_mathieu/contact.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -77,9 +78,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.contact.html (1)" />
         <item itemvalue="Node.js.formHandler.min.js" />
-        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.page2.html" />
         <item itemvalue="JavaScript Debug.contact.html" />
       </list>
@@ -99,7 +100,7 @@
       <workItem from="1642977274803" duration="23311000" />
       <workItem from="1643105003449" duration="28416000" />
       <workItem from="1643206207549" duration="31739000" />
-      <workItem from="1643638463344" duration="11679000" />
+      <workItem from="1643638463344" duration="12969000" />
     </task>
     <servers />
   </component>
