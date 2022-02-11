@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d617602d-0f6c-4127-853e-50deca00ce3c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_01_2022_23_11_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_01_2022_23_11__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Contact.html" afterDir="false" />
     </list>
@@ -61,11 +63,11 @@
       <recent name="$PROJECT_DIR$/fonts" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.contact.html (1)">
-    <configuration name="contact.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/P4_rebolloso_mathieu/contact.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.Contact.html">
+    <configuration name="Contact.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/P4_rebolloso_mathieu1/Contact.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="contact.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/P4_rebolloso_mathieu/Starting website/contact.html" useBuiltInWebServerPort="true">
+    <configuration name="contact.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/P4_rebolloso_mathieu/contact.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/P4_rebolloso_mathieu/index.html" useBuiltInWebServerPort="true">
@@ -79,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Contact.html" />
         <item itemvalue="JavaScript Debug.contact.html (1)" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="Node.js.formHandler.min.js" />
         <item itemvalue="JavaScript Debug.page2.html" />
-        <item itemvalue="JavaScript Debug.contact.html" />
       </list>
     </recent_temporary>
   </component>
@@ -101,7 +103,10 @@
       <workItem from="1642977274803" duration="23311000" />
       <workItem from="1643105003449" duration="28416000" />
       <workItem from="1643206207549" duration="31739000" />
-      <workItem from="1643638463344" duration="16537000" />
+      <workItem from="1643638463344" duration="17316000" />
+      <workItem from="1643796675333" duration="963000" />
+      <workItem from="1643798992973" duration="25000" />
+      <workItem from="1644419753973" duration="956000" />
     </task>
     <servers />
   </component>
