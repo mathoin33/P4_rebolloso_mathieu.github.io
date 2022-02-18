@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d617602d-0f6c-4127-853e-50deca00ce3c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.min.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +61,7 @@
       <recent name="$PROJECT_DIR$/fonts" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Contact.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="Contact.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/P4_rebolloso_mathieu1/Contact.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -70,7 +71,7 @@
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/P4_rebolloso_mathieu/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="page2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/P4_rebolloso_mathieu/page2.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/P4_rebolloso_mathieu1/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="formHandler.min.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/formHandler.min.js" working-dir="$PROJECT_DIR$/js">
@@ -78,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.Contact.html" />
         <item itemvalue="JavaScript Debug.contact.html (1)" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="Node.js.formHandler.min.js" />
-        <item itemvalue="JavaScript Debug.page2.html" />
       </list>
     </recent_temporary>
   </component>
@@ -104,7 +105,9 @@
       <workItem from="1643796675333" duration="963000" />
       <workItem from="1643798992973" duration="25000" />
       <workItem from="1644419753973" duration="956000" />
-      <workItem from="1644610479542" duration="574000" />
+      <workItem from="1644610479542" duration="1027000" />
+      <workItem from="1644920779069" duration="7000" />
+      <workItem from="1645192635291" duration="716000" />
     </task>
     <servers />
   </component>
